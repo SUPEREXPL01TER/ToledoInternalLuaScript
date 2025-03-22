@@ -1,4 +1,4 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "Toledo Api",
-	Text = "Injected! Enjoy Toledo (based of Luna)",
+	Title = "Xeno Api",
+	Text = "Injected! Enjoy Toledo",
 })
